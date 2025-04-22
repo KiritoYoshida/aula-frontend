@@ -1,13 +1,59 @@
-body {
-    background-color:
-    #EFEFCD;
-  } 
-  p{
-    font-size:25px;
-    background-color: #da751c;
-    color:#5c5c5c;
+body{
 
-  } 
-  img {
-   width:150px;
-  }
+background-image: rgb(232, 14, 14);
+
+}
+
+h1 {
+
+color: #fffd82ff;
+text-align: center;
+font-size: 40px; 
+-webkit-text-stroke: 1.2px #000000;
+
+}
+
+h2{
+
+color: #fffd82ff;
+font-size: 30px;
+text-align: center;
+background-color:#ca1551ff;
+}
+
+.logo {
+
+width: 300px;
+height: 275px;
+}
+
+.main {
+font-size: 30px;
+}
+
+div{
+background-color: rgb(172, 172, 174);
+}
+
+
+button {
+
+background-color: #fffd82ff;
+
+size: 50px;
+
+position: center;
+
+}
+
+.menu{
+    list-style: none;
+    display: flex;
+    justify-content: 
+    space-between;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
